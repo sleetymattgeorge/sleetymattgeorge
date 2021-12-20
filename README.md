@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Matty
-- 👀 I’m interested in Network Security, Backdoor Hacking
-- 🌱 I’m currently learning Ethical Hacking under the EC Council
-- 💞️ I’m looking to collaborate on major anti phishing, privacy attacks
+- 👀 I’m a CyberSecurity Professional and Certified Ethical Hacker (v11)
+- 💞️ I’m looking to collaborate on penetration testing, anti phishing, OSinT.
+-  I stress on Identity privacy and security
 - 📫 How to reach me Twitter.com/MattSleety and instagram.com/sleety_george
 
 <!---
