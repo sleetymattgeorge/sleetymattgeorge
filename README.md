@@ -1,16 +1,11 @@
 - WELCOME TO THE PAGE!!
 - I’m a CyberSecurity Professional <a href="https://aspen.eccouncil.org/VerifyBadge?type=training&a=kd0njM3W2TclJ0sO02HQ4A==">EC Council's Certified Ethical Hacker (v11)</a>
-- 📫 How to reach me 
--<a href="https://instagram.com/sleety_george">Instagram </a>
--<a href="https://www.linkedin.com/in/whcyberus">LinkedIN </a>
- -<a href="https://twitter.com/MattSleety">Twitter </a>
 
 <h1 align="center">Hi 👋, I'm White Hat Cyberus</h1>
-<h3 align="center">EC-Council's Certified Ethical Hacker</h3>
+<h3 align="center"><a href="https://aspen.eccouncil.org/VerifyBadge?type=training&a=kd0njM3W2TclJ0sO02HQ4A==">EC Council's Certified Ethical Hacker (v11)</a></h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whitehatcyberus" alt="whitehatcyberus" /></a> </p>
 
-- 🌱 I’m currently learning **Penetration testing, incident response and network internal auditing**
+- 🌱 I’m currently learning **Penetration testing, incident response and internal network auditing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/WhiteHatCyberus](https://github.com/WhiteHatCyberus)
 
@@ -33,5 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whitehatcyberus&show_icons=true&locale=en&layout=compact" alt="whitehatcyberus" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whitehatcyberus&show_icons=true&locale=en" alt="whitehatcyberus" /></p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whitehatcyberus" alt="whitehatcyberus" /></a> </p>
 
