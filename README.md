@@ -1,6 +1,3 @@
-- WELCOME TO THE PAGE!!
-- I’m a CyberSecurity Professional <a href="https://aspen.eccouncil.org/VerifyBadge?type=training&a=kd0njM3W2TclJ0sO02HQ4A==">EC Council's Certified Ethical Hacker (v11)</a>
-
 <h1 align="center">Hi 👋, I'm White Hat Cyberus</h1>
 <h3 align="center"><a href="https://aspen.eccouncil.org/VerifyBadge?type=training&a=kd0njM3W2TclJ0sO02HQ4A==">EC Council's Certified Ethical Hacker (v11)</a></h3>
 
