@@ -3,7 +3,7 @@
 
 - 🎓 Pursuing my **Bachelor's of Technology in Computer Science and Engineering** under **APJAKTU** in **RSET, Kochi**
 
-- ⚙️ Currently working for **Cognizant** as a **CyberSecurity trainee** and **HackerOne** as a Ethical Hacker and Bug Bounty Hunter
+- ⚙️ Currently working for **Cognizant** as a **CyberSecurity trainee** and **HackerOne** as a **Ethical Hacker** and **Bug Bounty Hunter**
 
 - 🌱 I’m currently learning **Penetration testing, incident response and internal network auditing**
 
