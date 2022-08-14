@@ -23,5 +23,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whitehatcyberus&show_icons=true&locale=en&layout=compact" alt="whitehatcyberus" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=whitehatcyberus&show_icons=true&locale=en" alt="whitehatcyberus" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whitehatcyberus&show_icons=true&locale=en" alt="whitehatcyberus" /></p>
