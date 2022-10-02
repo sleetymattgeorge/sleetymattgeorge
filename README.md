@@ -5,7 +5,7 @@
 
 - ⚙️ Currently working for **Cognizant** as a **CyberSecurity Student trainee** and **HackerOne** as a **Ethical Hacker** and **Bug Bounty Hunter**
 
-- 🌱 I’m currently learning **Penetration testing, incident response and internal network auditing**
+- 🌱 I’m currently learning **Penetration testing, incident response and reverse engineering and ISO 27001 auditing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/WhiteHatCyberus](https://github.com/WhiteHatCyberus)
 
