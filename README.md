@@ -32,6 +32,6 @@
 </p>
 <br>
 <h3 align="center">The Stats - Defines How Much I Support Open Source</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whitehatcyberus&show_icons=true&locale=en&layout=compact" alt="whitehatcyberus" width=50% /><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=whitehatcyberus&show_icons=true&locale=en" alt="whitehatcyberus" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whitehatcyberus&show_icons=true&locale=en&layout=compact" alt="whitehatcyberus" width=100% /><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=whitehatcyberus&show_icons=true&locale=en" alt="whitehatcyberus" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whitehatcyberus" alt="whitehatcyberus" /></a> </p>
