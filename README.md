@@ -24,7 +24,7 @@
 <a href="https://instagram.com/sleetygeorge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sleetygeorge" height="30" width="40" /></a></br>
 </p>
 <br>
-# The Stats - Defines How Much I Support Open Source
+<h3 align="center">The Stats - Defines How Much I Support Open Source</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whitehatcyberus&show_icons=true&locale=en&layout=compact" alt="whitehatcyberus" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=whitehatcyberus&show_icons=true&locale=en" alt="whitehatcyberus" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whitehatcyberus" alt="whitehatcyberus" /></a> </p>
