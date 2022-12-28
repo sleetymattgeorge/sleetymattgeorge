@@ -23,6 +23,7 @@
 <a href="https://linkedin.com/in/whcyberus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="whcyberus" height="30" width="40" /></a>
 <a href="https://instagram.com/sleetygeorge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sleetygeorge" height="30" width="40" /></a>
 </p>
+<br>
 # The Stats - Defines How Much I Support Open Source
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whitehatcyberus&show_icons=true&locale=en&layout=compact" alt="whitehatcyberus" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=whitehatcyberus&show_icons=true&locale=en" alt="whitehatcyberus" /></p>
 <br>
