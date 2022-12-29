@@ -25,6 +25,10 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
+
+[![Linkedin Badge](https://img.shields.io/badge/-whcyberus-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/whcyberus/)](https://www.linkedin.com/in/whcyberus/)
+[![Twitter Badge](https://img.shields.io/badge/-@MattSleety-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MattSleety)](https://twitter.com/MattSleety)
+[![Hotmail Badge](https://img.shields.io/badge/whcyberus-Email-brightgreenc14438?style=flat&logo=MicrosoftOutlook&logoColor=green&link=mailto:whcyberus@gmail.com)](mailto:whcyberus@gmail.com)
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/mattsleety" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mattsleety" height="30" width="40" /></a><br>
