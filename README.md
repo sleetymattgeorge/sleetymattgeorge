@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **cybersecurity trends**
 
-- 📫 How to reach me **matrixskmx@gmail.com**
+- 📫 How to reach me **whcyberus@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 
