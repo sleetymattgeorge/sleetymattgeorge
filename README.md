@@ -26,13 +26,11 @@
 <br>
 
 <h3 align="center">Connect with me:</h3>
+
+<p align="center">
 [![Linkedin Badge](https://img.shields.io/badge/-whcyberus-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/whcyberus/)](https://www.linkedin.com/in/whcyberus/)
 [![Twitter Badge](https://img.shields.io/badge/-@MattSleety-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MattSleety)](https://twitter.com/MattSleety)
 [![Hotmail Badge](https://img.shields.io/badge/whcyberus-Email-brightgreenc14438?style=flat&logo=MicrosoftOutlook&logoColor=green&link=mailto:whcyberus@gmail.com)](mailto:whcyberus@gmail.com)
-<p align="center">
-<a href="https://twitter.com/mattsleety" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mattsleety" height="30" width="40" /></a><br>
-<a href="https://linkedin.com/in/whcyberus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="whcyberus" height="30" width="40" /></a>
-<a href="https://instagram.com/sleetygeorge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sleetygeorge" height="30" width="40" /></a></br>
 </p>
 <br>
 
