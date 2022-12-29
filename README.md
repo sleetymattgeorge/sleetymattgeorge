@@ -19,9 +19,7 @@
 
 - 📝 I regularly write articles on [WordPress Blogs](https://ethicalcyberuspathways.wordpress.com/)
 
-- 💬 Ask me about **cybersecurity trends**
-
-- ✉️ Email:  
+- 💬 Ask me about **cybersecurity trends**  [![Hotmail Badge](https://img.shields.io/badge/Email-whcyberus-brightgreenc14438?style=flat&logo=MicrosoftOutlook&logoColor=green&link=mailto:whcyberus@gmail.com)](mailto:whcyberus@gmail.com)
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
@@ -60,5 +58,3 @@
 
 -----
 
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whitehatcyberus" alt="whitehatcyberus" /></a> </p>
