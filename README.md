@@ -17,9 +17,11 @@
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/WhiteHatCyberus)
 
-- 📝 I regularly write articles on [my WordPress Blogs](https://ethicalcyberuspathways.wordpress.com/)
+- 📝 I regularly write articles on [WordPress Blogs](https://ethicalcyberuspathways.wordpress.com/)
 
 - 💬 Ask me about **cybersecurity trends**
+
+- ✉️ Email:  
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
