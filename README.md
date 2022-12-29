@@ -13,7 +13,7 @@
 
 - ⚙️ Trained under **Cognizant** as a **CyberSecurity Student** and currently a **HackerOne Bug Bounty Hunter**
 
-- 🌱 I’m currently learning **Penetration testing, incident response, reverse engineering and ISO 27001 auditing**
+- 🌱 I’m currently learning **Vulnerability Assessment, Penetration testing, incident response, reverse engineering and ISO 27001 auditing**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/WhiteHatCyberus)
 
