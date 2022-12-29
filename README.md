@@ -9,15 +9,15 @@
 <br>
 <h3 align="center"><a href="https://aspen.eccouncil.org/VerifyBadge?type=training&a=kd0njM3W2TclJ0sO02HQ4A==">EC Council's Certified Ethical Hacker (v11)</a></h3>
 
-- 🎓 Pursuing my **Bachelor's of Technology in Computer Science and Engineering** under **APJAKTU** in **RSET, Kochi**
+- 🎓 Currently pursuing my **Bachelor's of Technology in Computer Science and Engineering** (8th Semester)
 
-- ⚙️ Currently working for **Cognizant** as a **CyberSecurity Student trainee** and **HackerOne** as a **Ethical Hacker** and **Bug Bounty Hunter**
+- ⚙️ Trained under **Cognizant** as a **CyberSecurity Student** and currently a **HackerOne Bug Bounty Hunter**
 
 - 🌱 I’m currently learning **Penetration testing, incident response, reverse engineering and ISO 27001 auditing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/WhiteHatCyberus](https://github.com/WhiteHatCyberus)
+- 👨‍💻 All of my projects are available at [here](https://github.com/WhiteHatCyberus)
 
-- 📝 I regularly write articles on [https://ethicalcyberuspathways.wordpress.com/](https://ethicalcyberuspathways.wordpress.com/)
+- 📝 I regularly write articles on [my WordPress Blogs](https://ethicalcyberuspathways.wordpress.com/)
 
 - 💬 Ask me about **cybersecurity trends**
 
