@@ -22,9 +22,10 @@
 - 💬 Ask me about **cybersecurity trends**
 
 - 📫 How to reach me **whcyberus@gmail.com**
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
+<br>
 <h3 align="center">Connect with me:</h3>
-
 <p align="center">
 <a href="https://twitter.com/mattsleety" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mattsleety" height="30" width="40" /></a><br>
 <a href="https://linkedin.com/in/whcyberus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="whcyberus" height="30" width="40" /></a>
