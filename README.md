@@ -11,7 +11,7 @@
 
 - 🎓 Currently pursuing my **Bachelor's of Technology in Computer Science and Engineering** (8th Semester)
 
-- ⚙️ Trained under **Cognizant** as a **CyberSecurity Student** and currently a **HackerOne Ethical Hacker**
+- ⚙️ Trained under **Technovalley AKS** as **EC-Council's Certified Ethical Hacker (CEH v11)** and currently a **Freelance Ethical Hacker @HackerOne**
 
 - 🌱 I’m currently learning **Vulnerability Assessment, Penetration testing, incident response, reverse engineering and ISO 27001 auditing**
 
