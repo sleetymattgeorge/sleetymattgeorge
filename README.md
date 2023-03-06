@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/WhiteHatCyberus)
 
-- 📝 I regularly write articles on [WordPress Blogs](https://ethicalcyberuspathways.wordpress.com/)
+- 📝 I write articles on [WordPress Blogs](https://ethicalcyberuspathways.wordpress.com/)
 
 - 💬 Ask me about **cybersecurity trends**  [![Hotmail Badge](https://img.shields.io/badge/Email-whcyberus-brightgreenc14438?style=flat&logo=MicrosoftOutlook&logoColor=green&link=mailto:whcyberus@gmail.com)](mailto:whcyberus@gmail.com)
 
