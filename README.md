@@ -31,10 +31,6 @@
 
 ---
 
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
-<br>
 
 <div align="center">
   <a href="https://github.com/WhiteHatCyberus/">
