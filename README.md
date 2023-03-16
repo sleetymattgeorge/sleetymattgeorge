@@ -14,7 +14,7 @@
   <li>🌱 I’m currently learning Vulnerability Assessment, Penetration testing, incident response, reverse engineering and ISO 27001 auditing</li>
   <li>👨‍💻 All of my projects are available <a href="https://github.com/WhiteHatCyberus">here</a></li>
   <li>📝 I write articles on <a href="https://ethicalcyberuspathways.wordpress.com/">WordPress Blogs</a></li>
-  <li>💬 Ask me about cybersecurity trends <a href="mailto:whcyberus@gmail.com"><img src="https://img.shields.io/badge/Email-whcyberus-brightgreenc14438?style=flat&logo=MicrosoftOutlook&logoColor=green" alt="Email"></a></li>
+  <li>💬 Ask me about cybersecurity trends </li>
 </ul>
 
 <picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
@@ -24,8 +24,10 @@
   <a href="https://twitter.com/mattsleety" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://linkedin.com/in/whcyberus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://ethicalcyberuspathways
+         
 
   </a>
+           <a href="mailto:whcyberus@gmail.com"><img src="https://img.shields.io/badge/Email-whcyberus-brightgreenc14438?style=flat&logo=MicrosoftOutlook&logoColor=green" alt="Email"></a>
 </p>
 <br>
 
