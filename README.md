@@ -9,8 +9,9 @@
 <h3 align="center"><a href="https://aspen.eccouncil.org/VerifyBadge?type=training&a=kd0njM3W2TclJ0sO02HQ4A==">EC Council's Certified Ethical Hacker (v11)</a></h3>
 
 <ul>
-  <li>🎓 Currently pursuing my Bachelor's of Technology in Computer Science and Engineering (8th Semester)</li>
-  <li>⚙️ Trained under Technovalley AKS as EC-Council's Certified Ethical Hacker (CEH v11) and currently a Freelance Ethical Hacker @HackerOne</li>
+  
+  <li>⚙️ EC-Council's Certified Ethical Hacker (CEH v11) and currently a Freelance Ethical Hacker @HackerOne</li>
+  <li>🎓 Bachelor's of Technology in Computer Science and Engineering</li>
   <li>🌱 I’m currently learning Vulnerability Assessment, Penetration testing, incident response, reverse engineering and ISO 27001 auditing</li>
   <li>📝 I write articles on <a href="https://ethicalcyberuspathways.wordpress.com/">WordPress Blogs</a></li>
   <li>💬 Ask me about cybersecurity trends </li>
