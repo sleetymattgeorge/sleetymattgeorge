@@ -7,15 +7,11 @@
 </p>
 
 <h3 align="center"><a href="https://aspen.eccouncil.org/VerifyBadge?type=training&a=kd0njM3W2TclJ0sO02HQ4A==">EC Council's Certified Ethical Hacker (v11)</a></h3>
+<br>
 
-<ul>
-  
-  <li>⚙️ EC-Council's Certified Ethical Hacker (CEH v11) and currently a Freelance Ethical Hacker @HackerOne</li>
-  <li>🎓 Bachelor's of Technology in Computer Science and Engineering</li>
-  <li>🌱 I’m currently learning Vulnerability Assessment, Penetration testing, incident response, reverse engineering and ISO 27001 auditing</li>
-  <li>📝 I write articles on <a href="https://ethicalcyberuspathways.wordpress.com/">WordPress Blogs</a></li>
-  <li>💬 Ask me about cybersecurity trends </li>
-</ul>
+> Hi I'm White Hat Cyberus , but you can simply call me Matt, a EC-Council Certified Ethical Hacker and External Network Auditor specialised in penetration testing, privilege escalation, incident handling and analysis. Besides this, I am a cybersecurity awareness coach conducting offline and online workshops globally for students, and enterprises. Dedicated to cybersecurity and developing solution applications, my major goal is to educate and enforce the importance of cybersecurity in a more technology focused world.
+
+---
 
 <picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
 
