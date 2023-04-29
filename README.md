@@ -28,12 +28,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteHatCyberus&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 ![Matty's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=WhiteHatCyberus&repo=SNORT-GUI&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
-
-
-<br>
-<a href="https://github.com/WhiteHatCyberus/github-stats">
-<img src="https://github.com/WhiteHatCyberus/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/WhiteHatCyberus/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
 -----
 
