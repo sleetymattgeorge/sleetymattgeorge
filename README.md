@@ -1,6 +1,9 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=whitehatcyberus&label=Profile%20views&color=0e75b6&style=flat" alt="whitehatcyberus" /></p>
+<picture><img align="right" src="https://user-images.githubusercontent.com/70995581/235339198-9a34ca38-89a8-404d-8187-8d7e54ff7f5e.gif" width="250px"></picture>
 
 <h1 align="center"><b>Hi, I'm White Hat Cyberus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></b></h1>
+
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Security+Researcher,;Penetration+Tester,;Vulnerability+Analyst,;Enterprise+External+Auditor+ISO+27001,;CyberSecurity+Awareness+Speaker/Blogger;HackerOne's+Bug+Bounty+Hunter"></a>
