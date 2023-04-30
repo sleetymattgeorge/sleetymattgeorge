@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Security+Researcher,;Penetration+Tester,;Vulnerability+Analyst,;Enterprise+External+Auditor+ISO+27001,;CyberSecurity+Awareness+Speaker/Blogger;HackerOne's+Bug+Bounty+Hunter"></a>
 </p>
-![stock-footage-close-up-of-young-man-attempting-to-steal-identities]()
 
 <h3 align="center"><a href="https://aspen.eccouncil.org/VerifyBadge?type=training&a=kd0njM3W2TclJ0sO02HQ4A==">EC Council's Certified Ethical Hacker (v11)</a><a> | IBM's Certified Pentration Tester</a></h3>
 <br>
