@@ -13,7 +13,7 @@
 
 ---
 
-<picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
+<picture><img align="right" src="https://i.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.webp" width="250px"></picture>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
