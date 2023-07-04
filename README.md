@@ -9,7 +9,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Security+Researcher;Penetration+Tester"></a>
 </p>
 
-<h3 align="center"><a href="https://aspen.eccouncil.org/VerifyBadge?type=training&a=kd0njM3W2TclJ0sO02HQ4A==">EC Council's Certified Ethical Hacker (v11)</a><a> | IBM's Certified Penetration Tester</a></h3>
+<h3 align="center"><a href="https://aspen.eccouncil.org/VerifyBadge?type=training&a=kd0njM3W2TclJ0sO02HQ4A==">EC Council's Certified Ethical Hacker (v11)</a></h3>
 <br>
 
 > Hi I'm White Hat Cyberus , but you can simply call me Matt, a EC-Council Certified Ethical Hacker and External Network Auditor specialised in penetration testing, privilege escalation, incident handling and analysis. Besides this, I am a cybersecurity awareness coach conducting offline and online workshops globally for students, and enterprises. Dedicated to cybersecurity and developing solution applications, my major goal is to educate and enforce the importance of cybersecurity in a more technology focused world.
