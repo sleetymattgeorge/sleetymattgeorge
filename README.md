@@ -21,8 +21,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://twitter.com/mattsleety" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://linkedin.com/in/whcyberus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+           <a href="https://linkedin.com/in/whcyberus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
            <a href="mailto:whcyberus@gmail.com"><img src="https://img.shields.io/badge/Email-whcyberus-brightgreenc14438?style=flat&logo=MicrosoftOutlook&logoColor=green" alt="Email"></a>
 </p>
 
