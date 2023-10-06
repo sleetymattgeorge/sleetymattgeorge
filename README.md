@@ -1,4 +1,3 @@
-
 <p align="center"><img src="https://komarev.com/ghpvc/?username=whitehatcyberus&label=Profile%20views&color=0e75b6&style=flat" alt="whitehatcyberus" /></p>
 
 <h1 align="center"><b>Hi, I'm White Hat Cyberus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></b></h1>
@@ -12,7 +11,7 @@
 <h3 align="center"><a href="https://aspen.eccouncil.org/VerifyBadge?type=training&a=kd0njM3W2TclJ0sO02HQ4A==">EC Council's Certified Ethical Hacker (v11)</a></h3>
 <br>
 
-> Hi I'm White Hat Cyberus , but you can simply call me Matt, a EC-Council Certified Ethical Hacker and DevSecOps Engineer @Xerox specialised in ansible, ci/cd pipelines, penetration testing, privilege escalation, incident handling and analysis. Besides this, I am a cybersecurity awareness coach conducting offline and online workshops globally for students, and enterprises. Dedicated to cybersecurity and developing solution applications, my major goal is to educate and enforce the importance of cybersecurity in a more technology focused world.
+> Hi I'm White Hat Cyberus , but you can simply call me Matt, a EC-Council Certified Ethical Hacker and `DevSecOps SDE Consultant @Xerox` specialised in ansible, ci/cd pipelines, penetration testing, privilege escalation, incident handling and analysis. Besides this, I am a cybersecurity awareness coach conducting offline and online workshops globally for students, and enterprises. Dedicated to cybersecurity and developing solution applications, my major goal is to educate and enforce the importance of cybersecurity in a more technology focused world.
 
 ---
 
@@ -35,4 +34,3 @@
 ![Matty's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=WhiteHatCyberus&repo=SNORT-GUI&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 -----
-
