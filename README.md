@@ -13,4 +13,3 @@
 
 ![Matty's GitHub stats](https://github-readme-stats.vercel.app/api/?username=WhiteHatCyberus&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteHatCyberus&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-![Background Image](https://cdn.dribbble.com/users/2174668/screenshots/4382907/media/5bb44d347dd5f1462c09d57b35b837bc.gif)
